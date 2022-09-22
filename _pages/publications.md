@@ -30,5 +30,3 @@ author_profile: true
   Y. Zhang, **<u>X. Dong</u>**, D. Zhang, D. Wang <br>
   [ASONAM 2019] IEEE/ACM International Conference on Advances in Social Networks Analysis and Mining (ASONAM) <br>
   \[[IEEE](https://ieeexplore.ieee.org/abstract/document/9073467)\]
-  
-{% endfor %}
