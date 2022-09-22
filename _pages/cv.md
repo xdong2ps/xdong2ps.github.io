@@ -9,6 +9,8 @@ redirect_from:
 
 {% include base_path %}
 
+Please kindly find my [Curriculum Vitae](/files/JD_CV.pdf).
+
 Education History
 ======
 * **B.S. in Computer Science, University of Notre Dame**
