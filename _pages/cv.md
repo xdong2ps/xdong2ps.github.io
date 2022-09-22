@@ -48,7 +48,7 @@ Research experience
 
 Extracurricular experience
 ======
-* Alto Saxophonist | Notre Dame Marching Band & University Band, IN
+* Alto Saxophonist, Notre Dame Marching Band & University Band, IN
   * Delivered performance on behalf of Notre Dame in an array of on-campus and off-campus events, e.g., the annual performance at DeBartolo Performing Arts Center.
 
 
