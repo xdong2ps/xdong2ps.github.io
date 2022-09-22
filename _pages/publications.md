@@ -31,6 +31,4 @@ author_profile: true
   [ASONAM 2019] IEEE/ACM International Conference on Advances in Social Networks Analysis and Mining (ASONAM) <br>
   \[[IEEE](https://ieeexplore.ieee.org/abstract/document/9073467)\]
   
-{% for post in site.publications reversed %}
-  {% include archive-single.html %}
 {% endfor %}
